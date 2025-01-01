@@ -1,7 +1,8 @@
-##**Ascending Triangle Stock Pattern Detection**
+**Ascending Triangle Stock Pattern Detection** <br />
 This project implements a Python script to identify and visualize the Ascending Triangle Pattern <br /> 
 in stock market data using the yfinance API. It analyzes historical stock prices <br />
 to detect potential opportunities based on technical analysis.<br />
+
 #
 ![image](https://github.com/user-attachments/assets/7abcddf2-71d9-48c7-a60c-260ae114665f)
 
