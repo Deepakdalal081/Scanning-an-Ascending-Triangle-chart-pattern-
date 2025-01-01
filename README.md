@@ -1,4 +1,5 @@
 **Stock Pattern Analysis: Ascending Triangle Detection** <br />
+#
 This project automates the detection and visualization of the Ascending Triangle Pattern <br /> 
 a popular technical analysis formation indicating potential bullish breakouts in stock prices. <br />
 It leverages Python to simplify stock data analysis, making it accessible to traders and quantitative researchers.<br />
